@@ -1,6 +1,7 @@
 .topnav {
   overflow: hidden;
   background-color: lightblue;
+  border-style: solid;
 }
 
 .topnav a {
