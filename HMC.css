@@ -21,6 +21,12 @@
   background-color: #04AA6D;
   color: white;
 
+  .topnav a.split {
+  float: right;
+  background-color: #04AA6D;
+  color: white;
+}
+
 .productnav {
   overflow: hidden;
   background-color: lightblue;
