@@ -11,21 +11,25 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border-style: solid;
 }
 
 .topnav a:hover {
   background-color: #ddd;
   color: black;
+  border-style: solid;
 }
 
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
+  border-style: solid;
 }
 .topnav a.split {
   float: right;
   background-color: lightblue;
   color: white;
+  border-style: solid;
 }
 
 .productnav {
@@ -41,10 +45,12 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border-style: solid;
 }
 .productnav a:hover {
   background-color: #ddd;
   color: black;
+  border-style: solid;
 }
 
 
