@@ -3,15 +3,17 @@
   background-color: lightblue;
   border-style: solid;
   border-radius: 12px;
+  border: solid black;
 }
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border: solid black;
   border-style: solid;
   border-radius: 12px;
 }
@@ -31,6 +33,7 @@
   color: white;
   border-style: solid;
   border-radius: 12px;
+  border: solid black;
 }
 
 .productnav {
@@ -38,6 +41,7 @@
   background-color: lightblue;
   border-style: solid;
   border-radius: 12px;
+  border: solid black;
 }
 
 .productnav a {
@@ -49,6 +53,7 @@
   font-size: 17px;
   border-style: solid;
   border-radius: 12px;
+  border: solid black;
 }
 .productnav a:hover {
   background-color: #ddd;
