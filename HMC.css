@@ -20,8 +20,8 @@
 .topnav a.active {
   background-color: #04AA6D;
   color: white;
-
-  .topnav a.split {
+}
+.topnav a.split {
   float: right;
   background-color: lightblue;
   color: white;
@@ -40,7 +40,7 @@
   text-decoration: none;
   font-size: 17px;
 }
-  .productnav a:hover {
+.productnav a:hover {
   background-color: #ddd;
   color: black;
 }
