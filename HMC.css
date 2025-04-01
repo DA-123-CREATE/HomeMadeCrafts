@@ -12,6 +12,8 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border-style: solid;
+  border-radius: 12px;
 }
 
 .topnav a:hover {
@@ -27,6 +29,8 @@
   float: right;
   background-color: lightblue;
   color: white;
+  border-style: solid;
+  border-radius: 12px;
 }
 
 .productnav {
@@ -43,6 +47,8 @@
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  border-style: solid;
+  border-radius: 12px;
 }
 .productnav a:hover {
   background-color: #ddd;
