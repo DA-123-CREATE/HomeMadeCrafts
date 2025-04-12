@@ -22,6 +22,18 @@ html {
 .signupbody {
  min-height: 100vh;
  background-image: url(pexels-markusspiske-11145695.jpg);
+ background-size: cover;
+ background-position: right;
+ overflow: hidden;
+}
+
+.wrapper{
+ background-color: var(base-color);
+ height: 100vh;
+ width: max(40%, 600px);
+ padding: 10 px;
+ border-radius: 0 20px 20px 0;
+ 
 }
 
 
