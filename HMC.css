@@ -27,7 +27,7 @@ html {
  overflow: hidden;
 }
 
-.wrapper{
+.wrapper {
  background-color: var(base-color);
  height: 100vh;
  width: max(40%, 600px);
