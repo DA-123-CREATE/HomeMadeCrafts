@@ -15,7 +15,7 @@
 html {
   font-family: Poppins, Segoe UI, sans-serif;
   font-size: 12pt;
-  color: var(text-color);
+  color: var(--text-color);
   text-align: center;
 }
 
@@ -28,7 +28,7 @@ html {
 }
 
 .wrapper {
- background-color: var(  base-color);
+ background-color: var(--base-color);
  height: 100vh;
  width: max(40%, 600px);
  padding: 10 px;
