@@ -19,6 +19,13 @@ html {
   text-align: center;
 }
 
+body{
+ min-height: 100vh;
+ background-image: url(pexels-markusspiske-11145695.jpg);
+}
+
+
+
 .topnav {
   overflow: hidden;
   background-color: lightblue;
