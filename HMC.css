@@ -40,7 +40,11 @@ html {
  justify-content: center;
 }
 
-
+.h1signup {
+ font-size: 3rem;
+ font-weight: 900;
+ text-transform: uppercase;
+}
 
 .topnav {
   overflow: hidden;
