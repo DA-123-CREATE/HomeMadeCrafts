@@ -46,6 +46,16 @@ html {
  text-transform: uppercase;
 }
 
+.signupform {
+ width: min(400px, 100%);
+ margin-top: 20px;
+ margin-bottom: 50px;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 10px;
+}
+
 .topnav {
   overflow: hidden;
   background-color: lightblue;
