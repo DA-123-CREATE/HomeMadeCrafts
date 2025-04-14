@@ -120,8 +120,8 @@ html {
 
 .products {
   display: grid;
-  grid-template-rows: repeat(4, 100px);
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+  grid-template-rows: repeat(4, 250px);
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 }
 }
 
