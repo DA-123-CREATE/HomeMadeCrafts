@@ -118,12 +118,8 @@ html {
   color: black;
 }
 
-.products {
-  display: grid;
-  grid-template-rows: repeat(3, 224px);
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-}
-}
+
+
 
 
 
