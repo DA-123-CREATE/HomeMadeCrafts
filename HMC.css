@@ -121,7 +121,7 @@ html {
 .products {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(220px, auto));
- gap: 5px;
+ gap: 1.5rem;
 }
 
 
