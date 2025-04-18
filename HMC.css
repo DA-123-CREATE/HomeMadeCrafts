@@ -12,7 +12,7 @@
   padding: 0;
 }
 
-html {
+.signup-html {
   font-family: Poppins, Segoe UI, sans-serif;
   font-size: 12pt;
   color: var(--text-color);
