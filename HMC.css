@@ -151,6 +151,10 @@ a:hover {
  cursor: pointer;
 }
 
+.add-cart:hover {
+  background: hsl(249, 32%, 17%);
+}
+
 
 
 
