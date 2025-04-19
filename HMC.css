@@ -19,6 +19,12 @@ header {
   justify-content: space-between;
   padding: 20px 0;
 }
+
+.container {
+  max-width: 1068px;
+  margin: auto;
+  width: 100%;
+}
 .topnav {
   overflow: hidden;
   background-color: lightblue;
