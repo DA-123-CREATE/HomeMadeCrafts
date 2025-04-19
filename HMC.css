@@ -23,6 +23,11 @@ a:hover {
   text-decoration: none;
 }
 
+#cart-icon {
+  font-size: 2.5em;
+  cursor: pointer;
+}
+
 .nav {
   display: flex;
   align-items: center;
