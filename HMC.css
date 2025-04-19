@@ -3,6 +3,9 @@
   --bg-color: #fff;
 }
 
+header {
+  z-index: 100;
+}
 .topnav {
   overflow: hidden;
   background-color: lightblue;
