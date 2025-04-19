@@ -25,6 +25,12 @@ header {
   margin: auto;
   width: 100%;
 }
+
+.logo {
+  font-size: 1.1rem;
+  color: var(--text-color);
+  font-weight: 400;
+}
 .topnav {
   overflow: hidden;
   background-color: lightblue;
