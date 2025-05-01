@@ -130,7 +130,7 @@ a:hover {
 .products {
  display: grid;
  grid-template-columns: repeat(auto-fit, minmax(224px, auto));
- gap: 10px 20px;
+ gap: 1.5rem;
 }
 
 .product-box {
